@@ -1,0 +1,4 @@
+book_id,title,author,category,total,available
+B001,Python Programming,Guido van Rossum,Programming,5,5
+B002,Data Structures,Mark Allen Weiss,Computer Science,3,3
+B003,Database Systems,Abraham Silberschatz,Database,4,4
